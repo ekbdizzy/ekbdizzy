@@ -13,12 +13,13 @@ I'm a Python developer with 3+ years of experience in Python/Django and JavaScri
 - - [Yanki Cards](https://github.com/ekbdizzy/yanki-cards) - Online translator with savings new words to Anki cards. Django, DRF, UnitTests, JWT, Redis, React, Docker
 - - [Star Burger](https://github.com/ekbdizzy/star-burger) - Online shop, Django, DRF, SQL-optimized
 - - [Zetpass.com](https://github.com/ekbdizzy/zetpass.com) - application for managing credentials, DRF, UnitTests, in progress.
+- - [dj-block-concurrent-edit](https://github.com/ekbdizzy/dj-block-concurrent-edit) - Django App: Simple lock implementation from concurrent editing in admin panel.
 - - [Sensive Blog](https://github.com/ekbdizzy/sensive-blog) - Blog on Django, SQL-optimized
 - - [Real Estate Agency](https://github.com/ekbdizzy/real_estate_agency) - Application on Django
 - - [Course Site](https://github.com/ekbdizzy/course_site_api) - API for Courses Site App, Django, DRF, pytest
 
 - Async python
-- - [Сервис для скачивания файлов](https://github.com/ekbdizzy/aiohttp-download-service) - Service on aiohttp
+- - [HTTP download service](https://github.com/ekbdizzy/aiohttp-download-service) - Microservice on aiohttp
 - - [Spaceship](https://github.com/ekbdizzy/asyncio-spaceship-game) - game like Galaxy on asyncio
 
 - Other python
