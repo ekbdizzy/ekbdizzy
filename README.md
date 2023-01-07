@@ -34,9 +34,11 @@ I'm a Python developer with 3+ years of experience in Python/Django and JavaScri
 - [Mathematic and Python for Data Scientists 2018](https://www.coursera.org/account/accomplishments/verify/GM2GY8F7HGSS) - Yandex Coursera, Numpy, Pandas 
 - [Stepik Python 2018](https://stepik.org/users/40955591/certificates)
 
-🤝  2022 Goals: 
-- [ ] FastAPI
-- [ ] NodeJS
+🤝  2023 Goals: 
+- [x] FastAPI
+- [ ] Kafka
+- [ ] NodeJS 
+
 
 🌿 Learning from everyone. All feedback is welcome.
 
