@@ -37,7 +37,7 @@ I'm a Python developer with 3+ years of experience in Python/Django and JavaScri
 🤝  2023 Goals: 
 - [x] FastAPI
 - [ ] Kafka
-- [ ] NodeJS 
+- [ ] Golang 
 
 
 🌿 Learning from everyone. All feedback is welcome.
