@@ -6,7 +6,7 @@
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/Koshkin.pydev/badges/small)
 
-I'm a Python developer with 3+ years of experience in Python/Django and JavaScript/React under Linux OS and Mac OS.
+I'm a Python/Go developer with 5+ years of experience in Python/Django and JavaScript/React under Linux OS and Mac OS.
 
 :briefcase:  Projects:
 - Django projects ordered by date created:
@@ -36,8 +36,10 @@ I'm a Python developer with 3+ years of experience in Python/Django and JavaScri
 
 🤝  2023 Goals: 
 - [x] FastAPI
-- [ ] Kafka
-- [ ] Golang 
+- [x] Kafka
+- [x] Golang
+- [ ] gRPC
+- [ ] Kubernetes
 
 
 🌿 Learning from everyone. All feedback is welcome.
