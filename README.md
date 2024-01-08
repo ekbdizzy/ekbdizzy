@@ -41,17 +41,6 @@ I have over 5 years of experience as a Python developer and also have experience
 - [Mathematic and Python for Data Scientists 2018](https://www.coursera.org/account/accomplishments/verify/GM2GY8F7HGSS) - Yandex Coursera, Numpy, Pandas.
 - [Stepik Python, Golang](https://stepik.org/users/40955591/certificates) certificates.
 
-🤝  2023 Goals: 
-- [x] FastAPI
-- [x] Kafka
-- [x] Golang
-- [x] gRPC
-- [ ] Kubernetes
-
-🤝  2024 Goals:
-- [ ] Golang pro-level
-- [ ] English C1
-
 
 
 🌿 Learning from everyone. All feedback is welcome.
