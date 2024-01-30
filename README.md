@@ -4,7 +4,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ekbdizzy&theme=darcula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ekbdizzy&theme=darcula)
 
-[![Website](https://img.shields.io/static/v1?label=linkedin&logo=linkedin&labelColor=0077ee&style=for-the-badge&message=let%27s%20connect)](https://www.linkedin.com/in/aleksey-koshkin/)
+[![Website](https://img.shields.io/static/v1?label=linkedin&logo=linkedin&labelColor=0077ee&style=for-the-badge&message=let%27s%20connect)](https://www.linkedin.com/in/alex-koshkin/)
 
 [![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/koshkin_pydev)
 
