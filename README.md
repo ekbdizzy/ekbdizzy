@@ -14,6 +14,7 @@ I have over 5 years of experience as a Python developer and also have experience
 
 :briefcase:  Projects:
 - Django projects ordered by date was created:
+- - [Wallet-api](https://github.com/ekbdizzy/wallet-api) - Wallet implementation with DRF, Open API, swagger, versioning, UnitTests, pagination, filters, alembic migrations. 
 - - [Yanki Cards](https://github.com/ekbdizzy/yanki-cards) - Online translator that stores new words on Anki cards. Django, DRF, UnitTests, JWT, Redis, React, Docker.
 - - [Star Burger](https://github.com/ekbdizzy/star-burger) - Online shop, Django, DRF, SQL-optimized.
 - - [Zetpass.com](https://github.com/ekbdizzy/zetpass.com) - Application for managing credentials, DRF, UnitTests, in progress.
