@@ -23,15 +23,17 @@ I have over 5 years of experience as a Python developer and also have experience
 - - [Real Estate Agency](https://github.com/ekbdizzy/real_estate_agency) - Application on Django.
 - - [Course Site](https://github.com/ekbdizzy/course_site_api) - API for Courses Site App, Django, DRF, pytest.
 
+- FastAPI
+- - [Commutation service](https://github.com/ekbdizzy/commutation_service/) - commutation service for Cisco switches on FastAPI, linux.
+- - [Postfix api service](https://github.com/ekbdizzy/postfix_api_service) - API service to manage postfix accounts on FastAPI, SQLAlchemy, MariaDB.
+
 - Async python
-- - [Commutation service](https://github.com/ekbdizzy/commutation_service/) - commutation service for Cisco switches on Fast API.
 - - [Parse and analyze news content](https://github.com/ekbdizzy/jaundice-rate) - Parser on aiohttp.
 - - [Asyncio chat client with GUI](https://github.com/ekbdizzy/asyncio_chat) - Chat client on asyncio.
 - - [HTTP download service](https://github.com/ekbdizzy/aiohttp-download-service) - Microservice on aiohttp.
 - - [Spaceship](https://github.com/ekbdizzy/asyncio-spaceship-game) - A game like Galaxy on asyncio.
 
 - Other python
-- - [Postfix api service](https://github.com/ekbdizzy/postfix_api_service) - API service to manage postfix accounts on FastApi.
 - - [SQLite ORM](https://github.com/ekbdizzy/SQLite_orm) Simple ORM on SQLite.
 - - [WSGI framework](https://github.com/ekbdizzy/simple-WSGI-framework) with Class Based Views and decorated views and Jinja2 templates.
 - - [Flask Online Shop Demo](https://github.com/ekbdizzy/shop_demo_flask) Online Shop Demo, Flask, SQLAlchemy.
