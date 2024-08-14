@@ -24,7 +24,6 @@ I have over 5 years of experience as a Python developer and also have experience
 - - [Course Site](https://github.com/ekbdizzy/course_site_api) - API for Courses Site App, Django, DRF, pytest.
 
 - FastAPI
-- - [Bets service api](https://github.com/ekbdizzy/bets-service/) - API microservices to create bets and events on FastAPI, SQLAlchemy, Redis, pytest. 
 - - [Commutation service](https://github.com/ekbdizzy/commutation_service/) - commutation service for Cisco switches on FastAPI, linux.
 - - [Postfix api service](https://github.com/ekbdizzy/postfix_api_service) - API service to manage postfix accounts on FastAPI, SQLAlchemy, MariaDB.
 
